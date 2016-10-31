@@ -1,0 +1,28 @@
+
+html {
+	color: black;
+	background-color: #FAFAF7;
+}
+body {
+	font-family: verdana, helvetica, arial, sans-serif;
+	font-size: 1em;
+}
+
+fieldset.fieldset-width1 {
+	width: 225px;
+}
+fieldset.fieldset-width2 {
+	width: 500px;
+}
+
+label.align {
+	width: 300px;
+	float: left;
+}
+td {
+	width: 150px;
+	border-style:solid;
+	border-width:1px;
+	padding:5px;
+}
+
